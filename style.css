@@ -1,0 +1,16 @@
+.header{
+    color: var(--Text-1, #FAFAF9);
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+ .headernavbar {
+    color: var(--Text-1, #FAFAF9);
+font-family: Inter;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+ }
